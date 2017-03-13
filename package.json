@@ -1,0 +1,32 @@
+{
+  "name": "js-jasmine-master",
+  "version": "1.0.0",
+  "description": "Practice testing your javascript applications using Jasmine!",
+  "main": "karma.conf.js",
+  "dependencies": {
+    "jasmine-core": "^2.5.2",
+    "karma": "^1.5.0",
+    "karma-chrome-launcher": "^2.0.0",
+    "karma-coverage": "^1.1.1",
+    "karma-firefox-launcher": "^1.0.1",
+    "karma-ie-launcher": "^1.0.0",
+    "karma-jasmine": "^1.1.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.24.0",
+    "babel-loader": "^6.4.0",
+    "babel-plugin-istanbul": "^4.0.0",
+    "babel-preset-es2015": "^6.24.0",
+    "karma-webpack": "^2.0.2",
+    "style-loader": "^0.13.2",
+    "webpack": "^2.2.1"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "taylor lee",
+  "license": "ISC"
+}
